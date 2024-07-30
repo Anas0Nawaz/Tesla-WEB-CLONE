@@ -1,0 +1,25 @@
+body{
+
+    margin: 0px ;
+
+}
+.main-div-1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/Homepage-img-1.png);
+}
+
+.nav-div{
+    
+    padding: 0% ;
+
+    .child1 img{
+        width: 100px;
+        height: 100px;
+    }
+    .child2 a{
+        color: white;
+    }
+
+
+}
